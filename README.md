@@ -22,7 +22,7 @@ To clone this application enter the following command:
 ```
 git clone https://github.com/JORUNOJOSTAR/Number-Guessing-Game.git
 ```
-After cloning ,you can run the following command to find actvities of github user.
+After cloning ,you can run the following command start a game.
 ```
 node index.js 
 ```
